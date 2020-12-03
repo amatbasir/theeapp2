@@ -4,4 +4,4 @@ build:
     - go
 
 run:
-  web: theapp
+  web: theapp-new
